@@ -1,0 +1,116 @@
+bracket challenge
+
+standings 
+player --- points
+click on player to see bracket
+
+
+database
+
+players:
+---------
+player_id  
+name  
+points
+
+brackets:
+---------
+player_id  
+afc_1_1
+afc_1_2
+afc_2_1
+afc_2_2
+afc_champ
+nfc_1_1
+nfc_1_2
+nfc_2_1
+nfc_2_2
+nfc_champ
+superbowl_champ
+afc_score
+nfc_score
+superbowl_mvp
+
+
+
+
+
+What's left?
+
+STYLING - this will be the bitch
+
+Pull DB data (scoreboard, brackets)
+Add DB data (process form)
+
+Scoring
+ - calculate against player "correct"
+ - update player table with scores at the end of every game. Requires me hitting correct url. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AFC
+
+Denver (1) (bye)   \    afc_2_1
+				    \------------\
+Houston (4)\ afc_1_1 \            \
+			----------             \
+Chiefs (5)/							\
+									 \
+									  \   afc_champ
+									 	--------------
+Bengals (3)\  afc_1_2                 /
+			 ------------            /
+Steelers (6)/			/  afc_2_2  /
+                       /-----------/
+New England (2) (bye) /
+
+
+
+
+NFC
+
+Carolina (1) bye
+
+Washington (4)
+
+Green Bay (5)
+
+
+
+Minnesota (3)
+
+Seattle (6)
+
+Arizona (2) bye
+
+
